@@ -1,3 +1,4 @@
+  -- database --
 CREATE TABLE customers (
   id NUMERIC PRIMARY KEY,
   name CHARACTER VARYING (255),
@@ -14,3 +15,6 @@ VALUES
   (3,	'Luiza Augusta Mhor,',	'Rua Salto Grande',	'Niteroi',	'RJ',	4000.00),
   (4,	'Jane Ester',	'Av 7 de setembro',	'Erechim',	'RS',	800.00),
   (5,	'Marcos Antônio dos Santos',	'Av Farrapos',	'Porto Alegre',	'RS',	4250.25);
+  
+  -- scrip --
+  select name, street from customers where city = 'Porto Alegre';
