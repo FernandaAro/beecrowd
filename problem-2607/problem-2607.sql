@@ -1,3 +1,4 @@
+-- database --
 CREATE TABLE providers (
   id numeric PRIMARY KEY,
   name varchar(50),
@@ -14,3 +15,6 @@ VALUES
   (4,	'Guilerme Staff',	'Rua Central',	'Porto Alegre',	'RS'),
   (5,	'Isabela Moraes',	'Av Juiz Grande',	'Curitiba',	'PR'),
   (6,	'Francisco Accerr',	'Av Paulista',	'São Paulo',	'SP');
+
+-- script --
+select city from providers order by city;

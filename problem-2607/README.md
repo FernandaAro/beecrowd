@@ -1,10 +1,10 @@
-<h1 align="center">:file_cabinet: beecrowd</h1>
+<h1 align="center">:file_cabinet: Cidades em Ordem Alfabética</h1>
 
 ## :memo: Descrição
 
-Beecrowd é uma plataforma brasileira que disponibiliza problemas que estimulam e desenvolvem o raciocínio lógico e o domínio de diversas linguagens de programação.
+Todos os meses a empresa pede um relatório das cidades que os fornecedores estão cadastrados. Dessa vez não vai ser diferente, faça uma consulta no Banco de Dados que retorne todas as cidades dos fornecedores, mas em ordem alfabética.
 
-:construction: Em constante desenvolvimento :construction:
+OBS: Você não deve mostrar cidades repetidas.
 
 
 ## :wrench: Tecnologias utilizadas
