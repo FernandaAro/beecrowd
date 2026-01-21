@@ -10,10 +10,18 @@ Beecrowd é uma plataforma brasileira que disponibiliza problemas que estimulam 
 ## :wrench: Tecnologias utilizadas
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## :rocket: Rodando o projeto
 
-Para rodar o repositório é necessário clonar o mesmo, abrir o arquivo de preferencia no Workbench MySQL, selecionar todo o script e executar (Ctrl + Enter)
+Para rodar o repositório .sql é necessário clonar o mesmo, abrir o arquivo de preferencia no Workbench MySQL, selecionar todo o script e executar (Ctrl + Enter).
+
+Para rodar o repositório .py é necessário clonar o mesmo, e realizar o seguinte comando no terminal para iniciar o projeto dentro da pasta /vscode conforme o nome do arquivo:
+
+```
+cd beecrowd
+py nomedoarquivo.py
+```
 
 ## :handshake: Colaboradores
 
